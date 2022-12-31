@@ -32,3 +32,6 @@ Full dependencies can be installed from `environment.yml`:
 
 ## Usage
 See `benchmarking.ipynb` for full usage. 
+
+## Task metadetails
+Around 3 hours background reading and around 3 hours of work, not considering time taken to train models.
